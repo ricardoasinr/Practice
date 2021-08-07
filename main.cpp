@@ -11,6 +11,22 @@ int main(int argc, const char * argv[]) {
     // insert code here...
     cout << "Hello, World!\n";
     
+    int a;
+    int b;
+
+    cout<<"Ingrese un valor para A"<<endl;
+
+    cin>>a;
+    
+    cout<<""<<endl;
+    
+    cout<<"Ingrese un valor para B"<<endl;
+    
+    cin>>b;
+    
+    cout<<""<<endl;
+    
+    
     
     return 0;
 }
