@@ -49,10 +49,11 @@ int main(int argc, const char * argv[]) {
     cout<<"A "<<"["<<a<<"]"<<endl;
     cout<<"B "<<"["<<b<<"]"<<endl;
     
-
+    //Creando conflicto
+    
     int m = mayor(a, b);
     cout<<m;
-
+        
     
     return 0;
 }
