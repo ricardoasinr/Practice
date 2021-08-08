@@ -27,7 +27,6 @@ int main(int argc, const char * argv[]) {
     cout<<""<<endl;
     //Añadiendo comentarios
     //f8ßß∂
-    //Y mi anterior codigo?
     
     return 0;
 }
