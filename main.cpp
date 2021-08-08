@@ -49,12 +49,13 @@ int main(int argc, const char * argv[]) {
     cout<<"A "<<"["<<a<<"]"<<endl;
     cout<<"B "<<"["<<b<<"]"<<endl;
     
-//Bueno a ver que pasa
+    //Bueno a ver que pasa
     int vanzar = 0;
+
     
     int m = mayor(a, b);
     cout<<m;
-
+        
     
     return 0;
 }
