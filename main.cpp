@@ -13,6 +13,16 @@ int mayor (int var1, int var2)
     }
     return  mayy;
 }
+int menor (int var1, int var2)
+{
+    int menn =0;
+    if(var2>var1)
+    {
+         menn = var2;
+    }
+    return  menn;
+}
+
 
 #include <iostream>
 using namespace std;
