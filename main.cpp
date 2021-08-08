@@ -50,7 +50,7 @@ int main(int argc, const char * argv[]) {
     cout<<"B "<<"["<<b<<"]"<<endl;
     
     //Bueno a ver que pasa
-    int vanzar = 0;
+    int avanzar = 0;
 
     
     int m = mayor(a, b);
