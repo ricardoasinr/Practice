@@ -25,8 +25,10 @@ int main(int argc, const char * argv[]) {
     cin>>b;
     
     cout<<""<<endl;
-    //Añadiendo comentarios
-    //f8ßß∂
+   
+    cout<<"Los numeros que acabas de introducir son: "<<endl;
+    cout<<"A "<<"["<<a<<"]"<<endl;
+    cout<<"B "<<"["<<b<<"]"<<endl;
     
     return 0;
 }
