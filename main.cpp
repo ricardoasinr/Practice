@@ -5,6 +5,7 @@
 //  Created by Ricardo Asin on 6/8/21.
 //
 // V 0.2
+// V 0.3
 int mayor (int var1, int var2)
 {
     int mayy =0;
